@@ -4,8 +4,8 @@ All Copyright By SmSm
 
 <img src = "https://discord.c99.nl/widget/theme-2/349942964904001546.png"></div>
 
-# ⚠️ | **Attention:** 
-The first thing I don't take any responsibility for blocked Discord accounts that used this Project
+# ⚠️ | **Attention** 
+I don't take any responsibility for blocked Discord accounts that used this Project
 
 # Features 
 - Custom Status For Each Account.
