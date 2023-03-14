@@ -17,7 +17,7 @@ I don't take any responsibility for blocked Discord accounts that used this Proj
 - And Last Thing ``config.json`` Add **IDVC** and **Mute&Deafen** Toggle for Accounts
 
 # Run on
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github//https://github.com/DEVSMSM/Discord-Account-Online)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/discord-account-online?path=tokens.txt%3A2%3A0)
 [![Run on Replit](https://replit.com/badge/github/DEVSMSM/Discord-Account-Online)](https://replit.com/new/github/DEVSMSM/Discord-Account-Online)
 
 
